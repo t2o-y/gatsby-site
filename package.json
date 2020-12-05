@@ -20,5 +20,8 @@
     "gatsby-plugin-google-analytics": "^2.7.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "yarn": "^1.22.10"
   }
 }
